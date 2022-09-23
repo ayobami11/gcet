@@ -103,7 +103,6 @@ const NavbarSC = styled.header`
 
     .nav__link {
         color: inherit;
-        cursor: pointer;
         font-weight: 500;
 
         &--flex {
